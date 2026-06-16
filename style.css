@@ -173,3 +173,12 @@ h1{
     font-weight:bold;
     box-shadow:0 0 15px rgba(37,211,102,0.5);
 }
+.contact p {
+    margin: 10px 0;
+    font-size: 1.1rem;
+}
+
+.contact a {
+    color: #00D4FF;
+    font-weight: bold;
+}
