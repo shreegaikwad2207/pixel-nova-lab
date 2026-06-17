@@ -182,3 +182,17 @@ h1{
     color: #00D4FF;
     font-weight: bold;
 }
+.btn:hover {
+    transform: scale(1.05);
+    transition: 0.3s ease;
+}
+html {
+    scroll-behavior: smooth;
+}
+nav a {
+    transition: 0.3s ease;
+}
+
+nav a:hover {
+    color: #00d4ff;
+}
